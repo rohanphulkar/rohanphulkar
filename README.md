@@ -78,47 +78,6 @@ I go beyond making software work. I'm interested in understanding how systems be
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Video Streaming Platform
-
-A backend-focused streaming platform exploring the engineering challenges behind processing and delivering video at scale.
-
-- Resumable uploads and object storage
-- Asynchronous processing and video transcoding
-- Adaptive bitrate streaming using HLS
-- CDN-based video delivery
-
-**Tech:** Python · AWS S3 · PostgreSQL · SQS · FFmpeg · HLS · CloudFront
-
-[Explore repositories →](https://github.com/rohanphulkar?tab=repositories)
-
-### 🧠 ContextBase — RAG Chat Application
-
-A document-based question-answering application exploring retrieval-augmented generation, semantic search, and LLM-powered responses.
-
-**Tech:** FastAPI · React · MySQL · Qdrant · LLMs
-
-[Explore repositories →](https://github.com/rohanphulkar?tab=repositories)
-
-### 🌐 Peeply — Social Platform
-
-A social platform project focused on backend architecture, scalable feeds, and real-time features, with an emphasis on applying system design concepts in practice.
-
-**Focus:** Backend engineering · System design · Distributed systems
-
-[Explore repositories →](https://github.com/rohanphulkar?tab=repositories)
-
-### 🤖 AI-Powered Applications
-
-Exploring applications that combine backend engineering with LLM integrations, retrieval systems, and intelligent workflows.
-
-**Focus:** Python · FastAPI · LLMs · RAG · Vector databases
-
-[Explore repositories →](https://github.com/rohanphulkar?tab=repositories)
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
