@@ -98,18 +98,11 @@ I go beyond making software work. I'm interested in understanding how systems be
 
 <p align="center">
   <img
-    src="./contributions.png"
+    src="./rohanphulkar_contributions.png"
     alt="GitHub contribution history"
     width="100%"
   />
 </p>
-
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
 
 ---
 
