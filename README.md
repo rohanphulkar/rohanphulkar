@@ -97,7 +97,11 @@ I go beyond making software work. I'm interested in understanding how systems be
 ## 📈 Contribution Graph
 
 <p align="center">
-  <i>Every contribution is a small step toward building better software.</i>
+  <img
+    src="./contributions.png"
+    alt="GitHub contribution history"
+    width="100%"
+  />
 </p>
 
 <!-- BEGIN ACTIVITY-GRAPH -->
