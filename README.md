@@ -8,7 +8,7 @@
 
 ## Operating principles
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        = Backend or full-stack engineer
 LOCATION    = Maheshwar
 PUBLIC_REPOS = 4
 COMMUNITY   = 1 followers</code></pre>
